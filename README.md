@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm YOUR_NAME</h1>
+<h1 align="center">👋 Hi, I'm VIJAY</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Open+Source+Engineering+Learner;AI+Developer+in+Progress;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Open+Source+Engineering;Full+Stack+Developer;CHAT+AI+Developer;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
 </p>
 
 <p align="center">
@@ -42,18 +42,18 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2300033794&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?2300033794=2300033794&layout=compact&theme=transparent" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/vijay-sai-kalivarapu/)
+- 📧 Email: vijaysaikalivarapu@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer"/>
