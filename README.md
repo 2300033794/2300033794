@@ -1,60 +1,73 @@
 <h1 align="center">👋 Hi, I'm VIJAY</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Open+Source+Engineering;Full+Stack+Developer;CHAT+bots+Developer;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Open+Source+Engineering+Learner;Full+Stack+Developer;Chatbot+Developer;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-2a6b30b1-76d4-4c3b-8b4c-2e7e6cc9a68c.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=2300033794&label=Profile%20Views&color=0ea5e9&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-2a6b30b1-76d4-4c3b-8b4c-2e7e6cc9a68c.gif" width="480"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🔍 Exploring **open-source systems & AI foundations**  
-- ⚙️ Interested in how software scales in real environments  
-- 🧪 Strong focus on learning by building
+👨‍💻 About Me
 
----
+- Passionate about developing full-stack web applications
+- Actively contributing to and learning from open-source projects
+- Interested in CI/CD pipelines, automation, and deployment workflows
+- Hands-on learner who enjoys building, testing, and improving real projects
 
-## 🌱 Currently Learning
-- Data pipelines & backend architectures  
-- Deep Learning fundamentals  
-- Cloud-native development basics
-- Machine Learning concepts
+
+🌱 Currently Learning
+
+- Full-stack application development
+- CI/CD tools and DevOps workflows
+- Machine Learning fundamentals
+- Cloud platforms & containerization
+
 
 ---
 
 ## 📜 Certifications
-- ✅ **NVIDIA – Fundamentals of Deep Learning**
-- 🧠 AI & GPU Computing Foundations
+- 🟢 **NVIDIA – Fundamentals of Deep Learning**
+- ⚡ AI & GPU Computing Basics
 
 ---
 
 ## 🧰 Tech Toolbox
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,spring,mysql,git,docker&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?2300033794=2300033794&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2300033794&show_icons=true&hide_title=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?2300033794=2300033794&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300033794&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2300033794&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/vijay-sai-kalivarapu/)
+- 💼 LinkedIn: https://www.linkedin.com/in/vijay-sai-kalivarapu/
 - 📧 Email: vijaysaikalivarapu@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=120&section=footer"/>
 </p>
