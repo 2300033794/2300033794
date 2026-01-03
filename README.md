@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm VIJAY</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Open+Source+Engineering;Full+Stack+Developer;CHAT+AI+Developer;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Open+Source+Engineering;Full+Stack+Developer;CHAT+bots+Developer;Backend+%26+System+Design+Explorer;NVIDIA+AI+Certified" />
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student with research interest  
 - 🔍 Exploring **open-source systems & AI foundations**  
 - ⚙️ Interested in how software scales in real environments  
 - 🧪 Strong focus on learning by building
@@ -21,7 +20,8 @@
 ## 🌱 Currently Learning
 - Data pipelines & backend architectures  
 - Deep Learning fundamentals  
-- Cloud-native development basics  
+- Cloud-native development basics
+- Machine Learning concepts
 
 ---
 
@@ -42,7 +42,7 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2300033794&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?2300033794=2300033794&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
 </p>
 
 <p align="center">
