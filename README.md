@@ -9,6 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sai-kalivarapu/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaysaikalivarapu@gmail.com)
 
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/2300033794/2300033794/blob/main/assets/RESUME.pdf)
+
+
 </div>
 
 ---
@@ -184,6 +187,7 @@ const VijaySai = {
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vijay-sai-kalivarapu/
 - 📧 Email: vijaysaikalivarapu@gmail.com
+
 
 ---
 
