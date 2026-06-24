@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Vijay Sai
 
-### 🚀 Full-Stack Developer | 🧠 Backend & System Design Explorer | 🤖 AI/ML Learner | ⚙️ DevOps Enthusiast
+### 🚀 Full-Stack Developer | 🧠 Backend & System Design Explorer | 🤖 AI/ML Learner |   ⚙️ DevOps Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Spring+Boot+%2B+React+Developer;Backend+Architecture+%26+System+Design;DevOps+%26+CI%2FCD+Explorer;Machine+Learning+%26+Object+Detection;NVIDIA+AI+Certified" />
 
